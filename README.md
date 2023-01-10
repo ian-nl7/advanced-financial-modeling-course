@@ -1,1 +1,1 @@
-# advanced-financial-modeling-course
+# MSF-833 advanced-financial-modeling
